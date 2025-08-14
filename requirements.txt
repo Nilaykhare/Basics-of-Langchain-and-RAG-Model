@@ -11,3 +11,8 @@ langchain_text_splitters
 langchain_openai
 chromadb
 langchain-community
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
