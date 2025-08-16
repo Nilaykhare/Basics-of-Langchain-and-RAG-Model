@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5762106a-b2ae-46b7-a667-8cdd3a758170" name="Changes" comment="" />
+    <list default="true" id="5762106a-b2ae-46b7-a667-8cdd3a758170" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6-Langchain Components/GettingStarted.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-Langchain Components/SimpleApp.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +49,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Udemy_Course\Basics-of-LangChain-and-RAG\6-Langchain Components" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +73,9 @@
       <workItem from="1754756185089" duration="3480000" />
       <workItem from="1754806436747" duration="5308000" />
       <workItem from="1755162619540" duration="1317000" />
+      <workItem from="1755163969317" duration="824000" />
+      <workItem from="1755165118886" duration="5765000" />
+      <workItem from="1755338089768" duration="5450000" />
     </task>
     <servers />
   </component>
