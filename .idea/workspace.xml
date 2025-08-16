@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5762106a-b2ae-46b7-a667-8cdd3a758170" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6-Langchain Components/GettingStarted.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-Langchain Components/SimpleApp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-Ollama/GenAI App using Ollama.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-Ollama/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Udemy_Course\Basics-of-LangChain-and-RAG\7-Ollama" />
       <recent name="E:\Udemy_Course\Basics-of-LangChain-and-RAG\6-Langchain Components" />
     </key>
   </component>
@@ -76,6 +76,7 @@
       <workItem from="1755163969317" duration="824000" />
       <workItem from="1755165118886" duration="5765000" />
       <workItem from="1755338089768" duration="5450000" />
+      <workItem from="1755344509750" duration="3437000" />
     </task>
     <servers />
   </component>
